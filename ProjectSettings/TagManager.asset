@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EndLevelZone
+  - EndLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Limit
+  - Collectible
+  - Dangerous
+  - LandindArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1348694209
+    locked: 0
+  - name: Ground
+    uniqueID: 2052032313
+    locked: 0
+  - name: Objects
+    uniqueID: 3012594573
+    locked: 0
+  - name: Player
+    uniqueID: 3201763805
+    locked: 0
+  - name: Foreground
+    uniqueID: 1772319219
+    locked: 0
+  - name: UI
+    uniqueID: 3643483063
+    locked: 0
